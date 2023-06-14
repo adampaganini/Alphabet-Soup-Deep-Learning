@@ -21,11 +21,6 @@ The nonprofit foundation Alphabet Soup is seeking help to select applicants for 
 
 The target variable for this analysis is "IS_SUCCESSFUL", thus the analysis predicts the organizations that are likley to succeed given certain circumstances. The target variables are "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT". The column "ORGANIZATION" was removed from the data set in an attempt to optimize results.
 
-## Compiling, Training, and Evaluating the Model
-
-How many neurons, layers, and activation functions did you select for your neural network model, and why? Were you able to achieve the target model performance? While model optimization increased from 72.5% to 72.8% I did not reach the target of 75% after applying three optimization techniques.
-To increase model performance additional neurons and hidden layers were added. 
-
 ## Results and conclusionsz
 
 The accuracy of Model_1 did not reach beyond 73%, so the target of 75% accuracy was not accomplished in the alloted time frame. Various optimization techniques were employed such as a) using different activation functions for the hidden layers, b) dropping more or fewer columns, and c) adding or reducing number of epochs.  Consequently, no more models were able to be produced beyond Model 1 due to time constraints. 
