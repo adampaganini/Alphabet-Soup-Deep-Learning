@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The nonprofit foundation Alphabet Soup is seeking help to select applicants for funding with the best chance of success in their ventures. Using machine learning and neural networks, features in the provided dataset were used to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup. The first Model (Model_1) was analyzed with the code in the [Alphabet_Soup_Model1_Notebook.ipynb](https://github.com/adampaganini/Alphabet-Soup-Deep-Learning/blob/main/Model_1/Alphabet_Soup_Model1_Notebook.ipynb) notebook, while the model can be run from the [model1.h5](https://github.com/adampaganini/Alphabet-Soup-Deep-Learning/blob/main/Model_1/model1.h5). The data contain more than 34,000 organizations that have received funding from Alphabet Soup along with the following columns:
+The nonprofit foundation Alphabet Soup is seeking help to select applicants for funding with the best chance of success in their ventures. Using machine learning and neural networks, features in the provided dataset were used to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup. The first Model (Model_1) was analyzed with the code in the [Alphabet_Soup_Model1_Notebook.ipynb](https://github.com/adampaganini/Alphabet-Soup-Deep-Learning/blob/main/Model_1/Alphabet_Soup_Model1_Notebook.ipynb) notebook, while the model can be run from the [model1.h5](https://github.com/adampaganini/Alphabet-Soup-Deep-Learning/blob/main/Model_1/model1.h5) file. The data that trained the model contain more than 34,000 organizations that have received funding from Alphabet Soup along with the following columns:
 
 - `EIN`
 - `NAME`
